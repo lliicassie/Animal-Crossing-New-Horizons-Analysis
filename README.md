@@ -1,6 +1,6 @@
 # Animal Crossing:New Horizons
 There are datasets of Animal Crossing: New Horizons contents, which is a game produced by Nintendo.
-Researchers can do various investigations regarding the  by using these datasets, like analyze the popularity of villagers.
+Researchers can do various investigations by using these datasets, like analyze the popularity of villagers.
 
 
 
