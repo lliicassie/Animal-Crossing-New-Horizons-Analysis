@@ -14,6 +14,8 @@ This dataset comes from [Google Spreadsheet](https://docs.google.com/spreadsheet
 
 ### dress-up.csv
 **Observations (Rows):** Each row represents an item and there features.
+
+
 **Variables (Columns):**
 | **Header**            | **Description**                                  |**Data Type**|
 |-----------------------|--------------------------------------------------|-------------|
