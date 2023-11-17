@@ -4,15 +4,15 @@ Researchers can do various investigations by using these datasets, like analyze 
 
 
 
-##archive
+## archive
 
-###content
+### content
 This dataset contains 30 csv files listing items in Animal Crossing: New Horizons, for example, clothing, music, art works, animals, villagers etc.
 
-###source
+### source
 This dataset comes from [Google Spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=400375391),which is a large and comprehensive inventory of items in Animal Crossing: New Horizons。
 
-###dress-up.csv
+### dress-up.csv
 **Observations (Rows):** Each row represents an item and there features.
 **Variables (Columns):**
 | **Header**            | **Description**                                  |**Data Type**|
@@ -40,7 +40,7 @@ This dataset comes from [Google Spreadsheet](https://docs.google.com/spreadsheet
 | Internal ID           | unknown                                          | number      |
 | Unique Entry ID       | unknown                                          | text        |
 
-##Animal Crossing Portal Villager Popularity
+## Animal Crossing Portal Villager Popularity
 
 This is a dataset from [Animal Crossing Portal Villager Popularity](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=400375391). It contains villager popularity tier and tier ranking of each villager in the game.
 
