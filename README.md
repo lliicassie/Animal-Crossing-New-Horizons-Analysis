@@ -10,7 +10,7 @@ Researchers can do various investigations by using these datasets, like analyzin
 This dataset contains 30 csv files listing items in Animal Crossing: New Horizons, for example, clothing, music, art works, animals, villagers etc.
 
 **Source**  
-This dataset comes from [Google Spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=400375391),which is a large and comprehensive inventory of items in Animal Crossing: New Horizons。
+This dataset comes from [Google Spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=400375391),which is a large and comprehensive inventory of items in Animal Crossing: New HorizonS.
 
 ### dress-up.csv
 **Observations (Rows):** Each row represents an item and there features.  
