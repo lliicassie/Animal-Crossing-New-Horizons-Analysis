@@ -1,20 +1,19 @@
 # Animal Crossing:New Horizons
 There are datasets of Animal Crossing: New Horizons contents, which is a game produced by Nintendo.
-Researchers can do various investigations by using these datasets, like analyze the popularity of villagers.
+Researchers can do various investigations by using these datasets, like analyzing the popularity of villagers.
 
 
 
-## archive
+## Archive
 
-### content
+### Content
 This dataset contains 30 csv files listing items in Animal Crossing: New Horizons, for example, clothing, music, art works, animals, villagers etc.
 
-### source
+**Source**  
 This dataset comes from [Google Spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=400375391),which is a large and comprehensive inventory of items in Animal Crossing: New Horizons。
 
 ### dress-up.csv
-**Observations (Rows):** Each row represents an item and there features.
-
+**Observations (Rows):** Each row represents an item and there features.  
 
 **Variables (Columns):**
 | **Header**            | **Description**                                  |**Data Type**|
@@ -44,17 +43,18 @@ This dataset comes from [Google Spreadsheet](https://docs.google.com/spreadsheet
 
 ## Animal Crossing Portal Villager Popularity
 
-This is a dataset from [Animal Crossing Portal Villager Popularity](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=400375391). It contains villager popularity tier and tier ranking of each villager in the game.
+This is a dataset from [Animal Crossing Portal Villager Popularity](https://www.kaggle.com/datasets/ampiiere/acnh-villager-popularity). It contains villager popularity tier and tier ranking of each villager in the game.
 
-**Content**
-Each villager belongs to a tier(1-6), and within each tier there are rankings. Each Tier has a different amount of rankings.
-As of 2022, March:
-The "Highest Popularity" tier contains 15 villagers
-The "Very Popular" tier contains 25 villagers
-The "Fairly Popular" tier contains 30 villagers
-The "Middle Ground" tier contains 60 villagers
-The "Less Popular" tier contains 120 villagers
-The "Least Popular" tier contains 163 villagers
+**Content**: Each villager belongs to a tier(1-6), and within each tier there are rankings. Each Tier has a different amount of rankings.  
+
+As of 2022, March:  
+
+The "Highest Popularity" tier contains 15 villagers  
+The "Very Popular" tier contains 25 villagers  
+The "Fairly Popular" tier contains 30 villagers  
+The "Middle Ground" tier contains 60 villagers  
+The "Less Popular" tier contains 120 villagers  
+The "Least Popular" tier contains 163 villagers  
 
 
 
